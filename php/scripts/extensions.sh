@@ -12,6 +12,7 @@ if [[ $PHP_VERSION == "8.0" ]]; then
     intl \
     mysqli \
     opcache \
+    mongodb \
     pcntl \
     pdo_mysql \
     pdo_pgsql \
